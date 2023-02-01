@@ -12,3 +12,4 @@ var fib = function (n) {
   return arr[n];
 };
 console.log(fib(4));
+//O(n)
